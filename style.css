@@ -1,0 +1,15 @@
+body {
+  background-color: thistle;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#start {
+  width: 500px;
+  height: 300px;
+  font-size: 300%;
+}
+
+#result {
+  font-size: 200%;
+}
